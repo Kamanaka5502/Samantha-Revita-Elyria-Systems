@@ -92,6 +92,53 @@ This is the public buyer-entry layer. It helps a buyer scope the governance prob
 
 ---
 
+## Six Pinned Repositories
+
+These are the six repositories that define the current public surface and development path.
+
+### 1. Samantha-Revita-Elyria-Systems
+
+**Repo:** https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems  
+**Role:** Authority and portfolio repository for Elyria Systems.
+
+This is the public positioning layer. It states what I build, how I build, what Elyria Systems is, and where the commercial boundary holds.
+
+### 2. elyria-build-tool
+
+**Repo:** https://github.com/Kamanaka5502/elyria-build-tool  
+**Role:** Released buyer-access product.
+
+This is the active public product. It provides the buyer-facing governance intake and blueprint generation layer.
+
+### 3. elyria-buyer-intake-pack
+
+**Repo:** https://github.com/Kamanaka5502/elyria-buyer-intake-pack  
+**Role:** Buyer preparation and intake template surface.
+
+This repo prepares buyers to describe the governed object, consequence, authority, evidence, review risks, and pilot-readiness conditions before deeper review.
+
+### 4. elyria-readiness-report-generator
+
+**Repo:** https://github.com/Kamanaka5502/elyria-readiness-report-generator  
+**Role:** Readiness scoring and gap-reporting surface.
+
+This repo turns buyer scope or blueprint input into a public-safe readiness report, gap matrix, action plan, and pilot-readiness summary.
+
+### 5. Kamanaka5502
+
+**Repo:** https://github.com/Kamanaka5502/Kamanaka5502  
+**Role:** GitHub profile README surface.
+
+This is the profile-level identity repo when the repository name exactly matches the GitHub username.
+
+### 6. Next controlled public-safe Elyria repo
+
+**Role:** Reserved for the next public-safe product or documentation surface.
+
+This slot is intentionally held. It should not expose proof machinery, validator logic, replay infrastructure, or implementation-grade corridor design.
+
+---
+
 ## System Category
 
 I do not treat governance as a linear checklist.
