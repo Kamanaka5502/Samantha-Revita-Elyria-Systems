@@ -57,22 +57,6 @@ It helps buyers produce a build-ready governance blueprint without exposing prot
 
 ---
 
-## Repos to Pin Now
-
-Pin these repos on the GitHub profile for the current public surface:
-
-1. **Samantha-Revita-Elyria-Systems**  
-   Authority / portfolio repo for Elyria Systems and operational governance positioning.  
-   https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems
-
-2. **elyria-build-tool**  
-   Released governance intake and blueprint generator.  
-   https://github.com/Kamanaka5502/elyria-build-tool
-
-Do not pin unreleased product repos yet.
-
----
-
 ## Higher-Level Work
 
 Beyond the public-safe product line, I design controlled governance implementation pathways for:
