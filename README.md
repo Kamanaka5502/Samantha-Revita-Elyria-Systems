@@ -1,85 +1,71 @@
 # Samantha Revita
 
-## AI Systems Engineer | Governance Runtime Architect | Founder of Elyria Systems
+## I Build Full Operational Governance Systems
 
-I build execution-governance systems for AI workflows, autonomous agents, access events, payment approvals, recommendations, operational decisions, and consequence-bearing automation.
+I build full operational governance systems for AI workflows, autonomous agents, access events, payment approvals, recommendations, operational decisions, and consequence-bearing automation.
 
-My work focuses on one core problem:
+My work is not limited to policy writing, compliance language, dashboards, intake forms, or after-the-fact reporting.
 
-**How do we stop invalid system movement before it becomes real consequence?**
+I build systems that define what must be true before movement is admitted, what authority is required, what evidence must exist, what conditions force hold or refusal, what protected effects must be controlled, and what must remain replayable after the decision.
 
-Most systems document what happened after execution.
+Core question:
 
-I build tools and frameworks that define what must be true **before movement is admitted**, what evidence must exist, what authority is required, what conditions force hold or refusal, and what must remain replayable after the decision.
+**Can invalid movement become real consequence?**
+
+If the answer is yes, the system is not fully governed. It is only documenting execution.
 
 ---
 
 ## What I Build
 
-I build public-safe governance products and controlled implementation pathways for systems where movement should not bind without validation.
+I build governance systems across the full execution lifecycle:
 
-Current Elyria product line:
-
-### Elyria Buyer Intake Pack
-
-A structured buyer intake product that helps teams prepare governance scopes before review.
-
-It captures:
-
-- governed object
-- consequence at risk
-- authority basis
-- evidence requirements
-- review risks
-- pilot-readiness questions
-- commercial boundary conditions
-
-### Elyria Build Tool
-
-A customer-facing governance intake and blueprint generator.
-
-It helps buyers define:
-
-- what must be governed
-- what consequence can bind
-- who or what has authority
-- what evidence must exist
-- when a movement should admit, hold, or refuse
-- what must create a receipt
-- what must be replayable later
-- where buyer scope ends and Elyria Systems implementation begins
-
-### Elyria Readiness Report Generator
-
-A public-safe readiness report generator that evaluates whether a governance scope is ready for review, scoping, or pilot planning.
-
-It produces:
-
-- readiness report
-- gap matrix
-- buyer action plan
-- pilot-readiness summary
-- commercial boundary report
+- buyer intake and governed-object definition
+- consequence mapping
+- authority and evidence requirements
+- admissibility boundaries
+- admit / hold / refuse structures
+- failure-mode identification
+- receipt requirements
+- replay requirements
+- pilot-readiness surfaces
+- runtime handoff packages
+- commercial access boundaries
+- implementation pathways for proof corridors
 
 ---
 
-## System Focus
+## Elyria Systems
 
-My work sits at the boundary between AI governance, deterministic execution, operational proof, and consequence control.
+Elyria Systems is my governance systems line for consequence-bearing automation.
 
-I design around:
+Current public-safe product ladder:
 
-- admissibility
-- authority
-- evidence
-- protected effects
-- receipt basis
-- replay basis
-- failure modes
-- scope boundaries
-- readiness gaps
-- pilot corridors
-- commercial access boundaries
+### Elyria Buyer Intake Pack
+
+A buyer preparation product for teams that need to define the system movement they want reviewed.
+
+### Elyria Build Tool
+
+A governance blueprint product that helps define what must be governed, what consequence can bind, what evidence is required, and where buyer scope ends before implementation.
+
+### Elyria Readiness Report Generator
+
+A readiness reporting product that identifies gaps across scope, authority, evidence, receipt requirements, replay requirements, and pilot-readiness.
+
+---
+
+## Higher-Level Work
+
+Beyond the public-safe product line, I design controlled governance implementation pathways for:
+
+- proof receipt planning
+- replay basis definition
+- pilot corridor planning
+- runtime handoff structure
+- consequence-bound movement review
+- protected-effect control
+- operational governance architecture
 
 ---
 
@@ -95,11 +81,9 @@ A system is governed when invalid movement cannot become binding consequence.
 
 ## Commercial Boundary
 
-The public Elyria tools are buyer-facing intake, readiness, and scoping products.
+The public Elyria tools expose buyer-facing intake, readiness, and scoping structure.
 
-They help buyers understand what needs to be governed and whether they are ready for deeper review.
-
-Protected Elyria Systems implementation work, proof receipt machinery, validator logic, replay infrastructure, and production corridor design are separate controlled engagements.
+Protected Elyria Systems implementation work, proof machinery, validator logic, replay infrastructure, and production corridor design are controlled engagements.
 
 ---
 
@@ -122,7 +106,7 @@ Protected Elyria Systems implementation work, proof receipt machinery, validator
 ## Contact
 
 **Samantha Revita**  
-Email: samanthagreenwellrevita@gmail.com
+samanthagreenwellrevita@gmail.com
 
 Elyria Systems  
 **Scope it. Layer it. Prove it before it moves.**
