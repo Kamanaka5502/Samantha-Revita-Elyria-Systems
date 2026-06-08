@@ -39,19 +39,70 @@ I build governance systems across the full execution lifecycle:
 
 Elyria Systems is my governance systems line for consequence-bearing automation.
 
-Current public-safe product ladder:
+The public repos show buyer-facing intake, readiness, and scoping structure. The controlled implementation layer remains separate.
 
-### Elyria Buyer Intake Pack
+---
 
-A buyer preparation product for teams that need to define the system movement they want reviewed.
+## Public Product Line
 
-### Elyria Build Tool
+### 1. Elyria Buyer Intake Pack
 
-A governance blueprint product that helps define what must be governed, what consequence can bind, what evidence is required, and where buyer scope ends before implementation.
+**Repo:** https://github.com/Kamanaka5502/elyria-buyer-intake-pack  
+**Product type:** Public-safe buyer template pack  
+**Price:** $99
 
-### Elyria Readiness Report Generator
+A buyer preparation product for teams that need to define the system movement they want reviewed before scoping, readiness review, or implementation discussion.
 
-A readiness reporting product that identifies gaps across scope, authority, evidence, receipt requirements, replay requirements, and pilot-readiness.
+It includes intake worksheets for governed object definition, consequence mapping, authority/evidence capture, review risk, pilot-readiness questions, and commercial boundary acknowledgment.
+
+---
+
+### 2. Elyria Build Tool
+
+**Repo:** https://github.com/Kamanaka5502/elyria-build-tool  
+**Product type:** Governance intake and blueprint generator  
+**Price:** buyer-access product
+
+A customer-facing governance blueprint tool that helps define what must be governed, what consequence can bind, what evidence is required, what authority is needed, when movement should admit/hold/refuse, and where buyer scope ends before implementation.
+
+---
+
+### 3. Elyria Readiness Report Generator
+
+**Repo:** https://github.com/Kamanaka5502/elyria-readiness-report-generator  
+**Product type:** Public-safe readiness report generator  
+**Price:** $149
+
+A readiness reporting tool that identifies gaps across governed object clarity, consequence clarity, authority, evidence, receipt requirements, replay requirements, pilot readiness, and commercial boundary clarity.
+
+---
+
+## Six Repos to Pin
+
+Pin these six repos on the GitHub profile to make the product line and authority surface clear:
+
+1. **Samantha-Revita-Elyria-Systems**  
+   Authority / portfolio repo for Elyria Systems and operational governance positioning.  
+   https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems
+
+2. **elyria-buyer-intake-pack**  
+   Public-safe buyer intake templates.  
+   https://github.com/Kamanaka5502/elyria-buyer-intake-pack
+
+3. **elyria-build-tool**  
+   Governance intake and blueprint generator.  
+   https://github.com/Kamanaka5502/elyria-build-tool
+
+4. **elyria-readiness-report-generator**  
+   Readiness scoring, gap reporting, and buyer action planning.  
+   https://github.com/Kamanaka5502/elyria-readiness-report-generator
+
+5. **Kamanaka5502**  
+   GitHub profile README repo. Use this only if the repo is named exactly `Kamanaka5502`.  
+   https://github.com/Kamanaka5502/Kamanaka5502
+
+6. **Next controlled public-safe repo**  
+   Reserved for the next Elyria public-safe product or documentation surface. Do not pin protected implementation code.
 
 ---
 
@@ -84,6 +135,10 @@ A system is governed when invalid movement cannot become binding consequence.
 The public Elyria tools expose buyer-facing intake, readiness, and scoping structure.
 
 Protected Elyria Systems implementation work, proof machinery, validator logic, replay infrastructure, and production corridor design are controlled engagements.
+
+Rule:
+
+**Sell the doorway. Sell readiness. Protect the machinery.**
 
 ---
 
