@@ -39,70 +39,37 @@ I build governance systems across the full execution lifecycle:
 
 Elyria Systems is my governance systems line for consequence-bearing automation.
 
-The public repos show buyer-facing intake, readiness, and scoping structure. The controlled implementation layer remains separate.
+The public release currently available is the Elyria Build Tool. Additional buyer-facing tools remain unreleased until I decide to publish them.
 
 ---
 
-## Public Product Line
+## Released Product
 
-### 1. Elyria Buyer Intake Pack
-
-**Repo:** https://github.com/Kamanaka5502/elyria-buyer-intake-pack  
-**Product type:** Public-safe buyer template pack  
-**Price:** $99
-
-A buyer preparation product for teams that need to define the system movement they want reviewed before scoping, readiness review, or implementation discussion.
-
-It includes intake worksheets for governed object definition, consequence mapping, authority/evidence capture, review risk, pilot-readiness questions, and commercial boundary acknowledgment.
-
----
-
-### 2. Elyria Build Tool
+### Elyria Build Tool
 
 **Repo:** https://github.com/Kamanaka5502/elyria-build-tool  
 **Product type:** Governance intake and blueprint generator  
-**Price:** buyer-access product
+**Status:** Released buyer-access product
 
-A customer-facing governance blueprint tool that helps define what must be governed, what consequence can bind, what evidence is required, what authority is needed, when movement should admit/hold/refuse, and where buyer scope ends before implementation.
+Elyria Build Tool is a customer-facing governance blueprint tool that helps define what must be governed, what consequence can bind, what evidence is required, what authority is needed, when movement should admit / hold / refuse, and where buyer scope ends before implementation.
 
----
-
-### 3. Elyria Readiness Report Generator
-
-**Repo:** https://github.com/Kamanaka5502/elyria-readiness-report-generator  
-**Product type:** Public-safe readiness report generator  
-**Price:** $149
-
-A readiness reporting tool that identifies gaps across governed object clarity, consequence clarity, authority, evidence, receipt requirements, replay requirements, pilot readiness, and commercial boundary clarity.
+It helps buyers produce a build-ready governance blueprint without exposing protected Elyria Systems implementation machinery.
 
 ---
 
-## Six Repos to Pin
+## Repos to Pin Now
 
-Pin these six repos on the GitHub profile to make the product line and authority surface clear:
+Pin these repos on the GitHub profile for the current public surface:
 
 1. **Samantha-Revita-Elyria-Systems**  
    Authority / portfolio repo for Elyria Systems and operational governance positioning.  
    https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems
 
-2. **elyria-buyer-intake-pack**  
-   Public-safe buyer intake templates.  
-   https://github.com/Kamanaka5502/elyria-buyer-intake-pack
-
-3. **elyria-build-tool**  
-   Governance intake and blueprint generator.  
+2. **elyria-build-tool**  
+   Released governance intake and blueprint generator.  
    https://github.com/Kamanaka5502/elyria-build-tool
 
-4. **elyria-readiness-report-generator**  
-   Readiness scoring, gap reporting, and buyer action planning.  
-   https://github.com/Kamanaka5502/elyria-readiness-report-generator
-
-5. **Kamanaka5502**  
-   GitHub profile README repo. Use this only if the repo is named exactly `Kamanaka5502`.  
-   https://github.com/Kamanaka5502/Kamanaka5502
-
-6. **Next controlled public-safe repo**  
-   Reserved for the next Elyria public-safe product or documentation surface. Do not pin protected implementation code.
+Do not pin unreleased product repos yet.
 
 ---
 
@@ -144,16 +111,13 @@ Rule:
 
 ## Product Ladder
 
-1. **Elyria Buyer Intake Pack**  
-   Public-safe buyer preparation templates.
+1. **Elyria Build Tool**  
+   Released governance intake and blueprint generator.
 
-2. **Elyria Build Tool**  
-   Governance intake and blueprint generator.
+2. **Additional Elyria buyer-facing tools**  
+   Unreleased until formally published.
 
-3. **Elyria Readiness Report Generator**  
-   Readiness scoring, gap reporting, and buyer action planning.
-
-4. **Controlled Elyria Systems Engagements**  
+3. **Controlled Elyria Systems Engagements**  
    Custom proof receipt design, runtime handoff, pilot corridor planning, and production licensing.
 
 ---
