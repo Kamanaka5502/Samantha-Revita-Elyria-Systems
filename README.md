@@ -5,6 +5,10 @@
 > **Execution is not assumed. It is admitted.**  
 > A movement binds only when the required authority, evidence, scope, state, and consequence conditions hold.
 
+**Research identity:** https://orcid.org/0009-0004-4439-3261  
+**Published series:** https://doi.org/10.5281/zenodo.20618521  
+**Public GitHub proof surface:** https://github.com/Kamanaka5502
+
 I build full operational governance systems for AI workflows, autonomous agents, access events, payment approvals, recommendations, operational decisions, and consequence-bearing automation.
 
 This is not policy decoration.  
@@ -203,6 +207,18 @@ Beyond the released public product, I design controlled governance implementatio
 This work is controlled because implementation-grade governance exposes more than templates.
 
 It can expose how authority, evidence, refusal, receipt, replay, and protected effects are structured into a working system.
+
+---
+
+## Publication and Proof Surface
+
+The Elyria Governance Architecture Series is published on Zenodo and tied to ORCID.
+
+- **ORCID:** https://orcid.org/0009-0004-4439-3261
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.20618521
+- **GitHub:** https://github.com/Kamanaka5502
+
+The public proof surface includes repositories spanning buyer intake, readiness scoring, runtime law, consequence-boundary infrastructure, protected-effect framing, and deterministic execution validation.
 
 ---
 
