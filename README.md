@@ -1,26 +1,41 @@
-# Samantha Revita
+# Samantha Revita — Elyria Systems
 
-## I Build Full Operational Governance Systems
+## Operational Governance for Consequence-Bearing Automation
 
-I build operational governance systems for AI workflows, autonomous agents, access events, payment approvals, recommendations, operational decisions, and consequence-bearing automation.
+> **Execution is not assumed. It is admitted.**  
+> A movement binds only when the required authority, evidence, scope, state, and consequence conditions hold.
 
-My work is not a policy wrapper. It is not a dashboard. It is not after-the-fact compliance language.
+I build full operational governance systems for AI workflows, autonomous agents, access events, payment approvals, recommendations, operational decisions, and consequence-bearing automation.
 
-I work at the execution boundary: the point where a proposed action, decision, workflow, model output, tool call, access event, payment, or recommendation is trying to become real consequence.
+This is not policy decoration.  
+This is not a dashboard.  
+This is not after-the-fact compliance language.
 
-The governing question is simple:
+This is the execution boundary: the point where a proposed action, decision, workflow, model output, tool call, access event, payment, or recommendation is trying to become real consequence.
 
-**What must be true before this movement is allowed to bind?**
+---
 
-If a system cannot answer that before execution, it is not governing movement. It is documenting what already happened.
+## Why Elyria Exists
+
+Modern systems often treat actions as harmless until after they bind.
+
+Governance becomes a post-mortem instead of a boundary.
+
+Elyria reverses that.
+
+If a system cannot answer what must be true before movement is allowed to bind, it is not governing movement. It is documenting what already happened.
+
+The governing question is direct:
+
+> **Can inadmissible movement become real consequence?**
+
+If yes, the system is not fully governed.
 
 ---
 
 ## What I Build
 
-I build governance systems that define, structure, and enforce the conditions for consequence-bearing movement.
-
-That includes:
+I build governance systems across the full execution lifecycle:
 
 - governed-object definition
 - consequence mapping
@@ -36,30 +51,35 @@ That includes:
 - runtime handoff packages
 - pilot corridor planning
 - commercial access boundaries
+- implementation pathways for proof corridors
 
-The purpose is not to make governance sound good.
+These are execution-boundary systems, not policy wrappers or dashboards.
 
-The purpose is to determine whether a movement can be admitted, whether it must be held, or whether it must be refused before it creates consequence.
+They determine whether movement is admitted, held, or refused before it creates consequence.
 
 ---
 
-## Elyria Systems
+## System Category
 
-Elyria Systems is my operational governance systems line for consequence-bearing automation.
+Governance is not a checklist.
 
-It is built for environments where actions cannot be treated as harmless outputs once they touch money, access, identity, operations, rights, records, recommendations, customer outcomes, infrastructure, or external systems.
+It is an execution field with:
 
-Elyria focuses on the execution field around movement:
+- standing conditions
+- protected effects
+- evidence requirements
+- authority boundaries
+- failure behavior
+- consequence lifecycle
 
-- what is trying to move
-- what consequence can bind
-- who or what has authority
-- what evidence must exist
-- what scope must hold
-- what conditions break admissibility
-- what must be recorded
-- what must be replayable
-- what must never occur after refusal
+A policy may describe intent.  
+A log may record activity.  
+A review step may slow execution.  
+None of those prove invalid movement could not become real.
+
+The category I build toward is stricter:
+
+> **If inadmissible movement can bind consequence, the system is not governed.**
 
 ---
 
@@ -68,12 +88,12 @@ Elyria focuses on the execution field around movement:
 ### Elyria Build Tool
 
 **Repo:** https://github.com/Kamanaka5502/elyria-build-tool  
-**Product type:** Governance intake and blueprint generator  
-**Status:** Released buyer-access product
+**Status:** Released buyer-access product  
+**Purpose:** Governance intake and blueprint generator
 
-Elyria Build Tool helps buyers define what they want governed before implementation begins.
+Elyria Build Tool helps buyers define what must be governed before implementation begins.
 
-It produces a build-ready governance blueprint covering:
+It produces:
 
 - governed object
 - consequence description
@@ -88,76 +108,82 @@ It produces a build-ready governance blueprint covering:
 - commercial access boundary
 - validation report
 
-This is the public buyer-entry layer. It helps a buyer scope the governance problem without exposing protected Elyria Systems implementation machinery.
+This is the public buyer-entry layer.
+
+It helps a buyer scope the governance problem without exposing controlled Elyria Systems implementation work.
+
+---
+
+## Product Ladder
+
+```text
+Elyria Build Tool
+Defines what must be governed.
+
+Elyria Readiness Report Generator
+Scores whether the buyer is ready for pilot review.
+
+Elyria Proof Receipt Readiness Kit
+Explains what receipt evidence must exist.
+
+Custom Proof Receipt Generator
+Buyer-specific controlled build.
+
+Pilot Corridor
+Runtime path.
+```
+
+Public products expose intake, readiness, and scoping structure.
+
+Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
 ## Six Pinned Repositories
 
-These are the six repositories that define the current public surface and development path.
-
 ### 1. Samantha-Revita-Elyria-Systems
 
-**Repo:** https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems  
-**Role:** Authority and portfolio repository for Elyria Systems.
-
-This is the public positioning layer. It states what I build, how I build, what Elyria Systems is, and where the commercial boundary holds.
+**Role:** Portfolio and authority repo for Elyria Systems and operational governance positioning.  
+**Repo:** https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems
 
 ### 2. elyria-build-tool
 
-**Repo:** https://github.com/Kamanaka5502/elyria-build-tool  
-**Role:** Released buyer-access product.
-
-This is the active public product. It provides the buyer-facing governance intake and blueprint generation layer.
+**Role:** Released governance intake and blueprint product.  
+**Repo:** https://github.com/Kamanaka5502/elyria-build-tool
 
 ### 3. elyria-buyer-intake-pack
 
-**Repo:** https://github.com/Kamanaka5502/elyria-buyer-intake-pack  
-**Role:** Buyer preparation and intake template surface.
-
-This repo prepares buyers to describe the governed object, consequence, authority, evidence, review risks, and pilot-readiness conditions before deeper review.
+**Role:** Buyer preparation surface.  
+**Repo:** https://github.com/Kamanaka5502/elyria-buyer-intake-pack
 
 ### 4. elyria-readiness-report-generator
 
-**Repo:** https://github.com/Kamanaka5502/elyria-readiness-report-generator  
-**Role:** Readiness scoring and gap-reporting surface.
-
-This repo turns buyer scope or blueprint input into a public-safe readiness report, gap matrix, action plan, and pilot-readiness summary.
+**Role:** Readiness scoring and gap matrix surface.  
+**Repo:** https://github.com/Kamanaka5502/elyria-readiness-report-generator
 
 ### 5. Kamanaka5502
 
-**Repo:** https://github.com/Kamanaka5502/Kamanaka5502  
-**Role:** GitHub profile README surface.
+**Role:** Profile identity repo.  
+**Repo:** https://github.com/Kamanaka5502/Kamanaka5502
 
-This is the profile-level identity repo when the repository name exactly matches the GitHub username.
+### 6. Reserved Slot
 
-### 6. Next controlled public-safe Elyria repo
+**Role:** Next controlled public-safe Elyria product.
 
-**Role:** Reserved for the next public-safe product or documentation surface.
-
-This slot is intentionally held. It should not expose proof machinery, validator logic, replay infrastructure, or implementation-grade corridor design.
+Each repo is part of the public surface of Elyria Systems.
 
 ---
 
-## System Category
+## What This Is / What This Is Not
 
-I do not treat governance as a linear checklist.
-
-I treat governance as an execution field with standing conditions, protected effects, evidence requirements, authority boundaries, failure behavior, and consequence lifecycle.
-
-A policy may describe intent.
-
-A log may record activity.
-
-A review step may slow execution.
-
-But none of those prove that invalid movement could not become real.
-
-The category I build toward is stricter:
-
-**Can inadmissible movement bind consequence?**
-
-If yes, the system is not fully governed.
+| This is | This is not |
+|---|---|
+| Operational governance architecture | Generic compliance copy |
+| Execution-boundary design | Policy theater |
+| Buyer intake and scope definition | A dashboard skin |
+| Authority and evidence structuring | After-the-fact reporting |
+| Admit / hold / refuse logic surfaces | Uncontrolled production machinery |
+| Public-safe commercial products | Disclosure of protected implementation internals |
 
 ---
 
@@ -174,54 +200,39 @@ Beyond the released public product, I design controlled governance implementatio
 - buyer-specific governance architecture
 - production licensing pathways
 
-This work is controlled because implementation-grade governance exposes more than templates. It can expose how authority, evidence, refusal, receipt, replay, and protected effects are structured into a working system.
+This work is controlled because implementation-grade governance exposes more than templates.
+
+It can expose how authority, evidence, refusal, receipt, replay, and protected effects are structured into a working system.
 
 ---
 
-## Core Principle
+## Certification
 
-**Execution is not assumed. It is admitted.**
-
-Nothing should become operationally real merely because a workflow reached the next step, an AI agent selected a tool, a policy label matched, or a system produced an output.
-
-Movement should bind only when the required authority, evidence, scope, state, and consequence conditions hold.
-
-A governed system must be able to show:
-
-- what was admitted
-- what was held
-- what was refused
-- why the decision was made
-- what protected effect was allowed or blocked
-- what evidence supported the decision
-- what changed after the decision
-- what can be replayed later
+**micro1 — Independent Systems Engineer**  
+Certified January 31, 2026
 
 ---
 
 ## Commercial Boundary
 
-The released public product is buyer-facing and public-safe.
+The public Elyria tools are buyer-facing and public-safe.
 
-It is designed to help buyers define the governance scope and prepare for deeper review.
+They help buyers understand what needs to be governed and whether they are ready for deeper review.
 
 Protected Elyria Systems implementation work, proof machinery, validator logic, replay infrastructure, and production corridor design remain controlled engagements.
 
-Rule:
-
-**Show the geometry. Protect the machinery.**
+> **Show the geometry. Protect the machinery.**
 
 ---
 
-## Product Path
+## Start Here
 
-1. **Elyria Build Tool**  
-   Released governance intake and blueprint generator.
+1. Review the released product: **Elyria Build Tool**  
+   https://github.com/Kamanaka5502/elyria-build-tool
 
-2. **Controlled Elyria Systems Engagements**  
-   Buyer-specific proof receipt design, runtime handoff, pilot corridor planning, implementation support, and production licensing.
+2. Use it to define what must be governed.
 
-Additional buyer-facing products will be published only when they are ready for public release.
+3. Contact Elyria Systems when the buyer scope is ready for controlled review.
 
 ---
 
