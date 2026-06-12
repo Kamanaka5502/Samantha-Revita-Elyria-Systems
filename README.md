@@ -4,7 +4,6 @@
 
 ## Consequence-Resolution Architecture for AI, Automation, Runtime Movement, and Applied Discovery
 
-![Ivory](https://img.shields.io/badge/Palette-Ivory%20%2F%20White%20%2F%20Blush-fff7f5?style=for-the-badge)
 ![Public Safe](https://img.shields.io/badge/Public--Safe-Protected%20Boundary-d8b6b9?style=for-the-badge)
 ![Elyria Systems](https://img.shields.io/badge/Elyria%20Systems-Consequence%20Resolution-8b5e66?style=for-the-badge)
 
