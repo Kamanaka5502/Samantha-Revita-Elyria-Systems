@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤍 Samantha Revita — Elyria Systems
+#  Samantha Revita — Elyria Systems
 
 ## Consequence-Resolution Architecture for AI, Automation, Runtime Movement, and Applied Discovery
 
