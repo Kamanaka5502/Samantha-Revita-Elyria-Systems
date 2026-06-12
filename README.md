@@ -1,12 +1,12 @@
 <div align="center">
 
-#  Samantha Revita — Elyria Systems
+# Samantha Revita — Elyria Systems
 
 ## Consequence-Resolution Architecture for AI, Automation, Runtime Movement, and Applied Discovery
 
 ![Ivory](https://img.shields.io/badge/Palette-Ivory%20%2F%20White%20%2F%20Blush-fff7f5?style=for-the-badge)
-![Public Safe](https://img.shields.io/badge/Public--Safe-Protected%20Boundary-f7d9dc?style=for-the-badge)
-![Elyria Systems](https://img.shields.io/badge/Elyria%20Systems-Consequence%20Resolution-c98f9a?style=for-the-badge)
+![Public Safe](https://img.shields.io/badge/Public--Safe-Protected%20Boundary-d8b6b9?style=for-the-badge)
+![Elyria Systems](https://img.shields.io/badge/Elyria%20Systems-Consequence%20Resolution-8b5e66?style=for-the-badge)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🤍 Executive Position
+## Executive Position
 
 I build consequence-resolution architecture: systems that decide whether a proposed action, workflow, AI output, access event, payment, dependency, thermal burden, evidence claim, or discovery candidate has standing to become real consequence.
 
@@ -51,7 +51,7 @@ If yes, the boundary is not complete.
 
 ---
 
-## 🌸 The Doctrine
+## The Doctrine
 
 Movement governance is not proven by naming a gate.
 
@@ -78,7 +78,7 @@ The proof surface is the prevented consequence.
 
 ---
 
-## 🕊️ Why Elyria Exists
+## Why Elyria Exists
 
 Modern systems move faster than authority can resolve.
 
@@ -104,7 +104,7 @@ It is documenting exposure.
 
 ---
 
-## 🪞 The Elyria Standard
+## The Elyria Standard
 
 A governed system must prove that movement remained admissible across the standing geometry before effect formed.
 
@@ -129,7 +129,7 @@ The standard is whether invalid movement can still become real.
 
 ---
 
-## 🩰 Root Architecture
+## Root Architecture
 
 The private and controlled research surface is larger than a single product.
 
@@ -161,7 +161,7 @@ The protected layer preserves the machinery.
 
 ---
 
-## 🌷 Applied Domains
+## Applied Domains
 
 Elyria Systems applies consequence-resolution architecture across multiple corridors.
 
@@ -201,7 +201,7 @@ They must survive lineage, non-interference, device constraints, witness closure
 
 ---
 
-## 🤍 What I Build
+## What I Build
 
 I build consequence-bound governance systems across the full execution lifecycle:
 
@@ -229,7 +229,7 @@ They determine whether movement is admitted, held, narrowed, escalated, refused,
 
 ---
 
-## 🌸 Public Product Surface
+## Public Product Surface
 
 The public Elyria surface is intentionally layered.
 
@@ -257,7 +257,7 @@ Controlled engagements handle implementation-grade runtime architecture, product
 
 ---
 
-## 🕊️ Product Ladder
+## Product Ladder
 
 ```text
 Elyria Build Tool
@@ -285,7 +285,7 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
-## 🪞 Public Repositories
+## Public Repositories
 
 ### 1. Samantha-Revita-Elyria-Systems
 
@@ -318,7 +318,7 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
-## 🤍 What This Is / What This Is Not
+## What This Is / What This Is Not
 
 | This is | This is not |
 |---|---|
@@ -334,7 +334,7 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
-## 🌷 Proof Surface
+## Proof Surface
 
 The public proof surface is designed to show the shape of the work without exposing protected machinery.
 
@@ -359,7 +359,7 @@ It can expose how authority, evidence, refusal, receipt, replay, validators, sta
 
 ---
 
-## 🩰 Commercial Boundary
+## Commercial Boundary
 
 Public visibility is not implementation permission.
 
@@ -373,7 +373,7 @@ Protected Elyria Systems implementation work, proof machinery, validator logic, 
 
 ---
 
-## 🌸 Engagement Path
+## Engagement Path
 
 ```text
 1. Identify the movement.
@@ -388,7 +388,7 @@ Protected Elyria Systems implementation work, proof machinery, validator logic, 
 
 ---
 
-## 🕊️ Research and Publication Surface
+## Research and Publication Surface
 
 The Elyria Governance Architecture Series is published on Zenodo and tied to ORCID.
 
@@ -400,14 +400,14 @@ The public research and proof surface spans buyer intake, readiness scoring, mov
 
 ---
 
-## 🤍 Certification
+## Certification
 
 **micro1 — Independent Systems Engineer**  
 Certified January 31, 2026
 
 ---
 
-## 🌷 Core Line
+## Core Line
 
 > **The customer tells us what must be governed.**  
 > **Elyria converts it into a consequence-bound governance object.**  
