@@ -23,9 +23,7 @@
 > **Consequence does not become real arbitrarily. Movement must resolve under authority, evidence, capacity, scope, continuity, and lawful continuation before it binds.**
 
 **Founder / Lead Architect, Elyria Systems:** Samantha Revita  
-**Co-Founder, Veritas Aegis:** Samantha Revita  
 **Founder / Lead Architect, Veritas Aegis:** Terry Snyder  
-**Lead Architect, shared Veritas Aegis → Elyria Systems lineage:** Terry Snyder  
 **System:** Elyria Systems  
 **Research identity:** https://orcid.org/0009-0004-4439-3261  
 **Published series:** https://doi.org/10.5281/zenodo.20618521  
@@ -71,9 +69,9 @@ If yes, the boundary is not complete.
 
 Elyria Systems developed from work that passed through Veritas Aegis collaboration and later consolidated into the Elyria Systems public proof surface.
 
-Samantha Revita is the Founder / Lead Architect of Elyria Systems and Co-Founder of Veritas Aegis.
+Samantha Revita is the Founder / Lead Architect of Elyria Systems.
 
-Terry Snyder is Founder and Lead Architect of Veritas Aegis and Lead Architect on selected shared lineage materials, field-law work, and co-developed conceptual surfaces that informed Elyria Systems.
+Terry Snyder is Founder and Lead Architect of Veritas Aegis and contributor to selected shared lineage materials, field-law work, and co-developed conceptual surfaces that informed Elyria Systems.
 
 This attribution is scoped. It does not imply authorship, ownership, or contribution across every Elyria Systems repository, product, implementation, customer-specific build, private proof corridor, or protected runtime surface.
 
