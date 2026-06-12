@@ -87,37 +87,6 @@ The category I build toward is stricter:
 
 ---
 
-## Released Product
-
-### Elyria Build Tool
-
-**Repo:** https://github.com/Kamanaka5502/elyria-build-tool  
-**Status:** Released buyer-access product  
-**Purpose:** Governance intake and blueprint generator
-
-Elyria Build Tool helps buyers define what must be governed before implementation begins.
-
-It produces:
-
-- governed object
-- consequence description
-- authority requirements
-- evidence requirements
-- admit / hold / refuse matrix
-- failure modes
-- receipt requirements
-- replay requirements
-- pilot corridor plan
-- protected scope
-- commercial access boundary
-- validation report
-
-This is the public buyer-entry layer.
-
-It helps a buyer scope the governance problem without exposing controlled Elyria Systems implementation work.
-
----
-
 ## Product Ladder
 
 ```text
