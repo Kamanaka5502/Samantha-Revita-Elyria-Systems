@@ -1,0 +1,38 @@
+:root {
+  --elyria-ivory: #fffaf7;
+  --elyria-soft-white: #ffffff;
+  --elyria-blush: #f7d9dc;
+  --elyria-rose: #c98f9a;
+  --elyria-mauve: #8b5e66;
+  --elyria-charcoal: #2f2a2b;
+  --elyria-taupe: #756b67;
+  --elyria-border: #ead6d0;
+}
+
+body {
+  background: var(--elyria-ivory);
+  color: var(--elyria-charcoal);
+}
+
+.elyria-card {
+  background: linear-gradient(135deg, #ffffff 0%, #fff7f5 55%, #f8e1e4 100%);
+  border: 1px solid var(--elyria-border);
+  border-radius: 18px;
+  padding: 28px;
+  box-shadow: 0 18px 44px rgba(137, 92, 98, 0.12);
+}
+
+.elyria-title {
+  color: var(--elyria-charcoal);
+  letter-spacing: 0.02em;
+}
+
+.elyria-accent {
+  color: var(--elyria-mauve);
+}
+
+.elyria-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--elyria-rose), transparent);
+  border: 0;
+}
