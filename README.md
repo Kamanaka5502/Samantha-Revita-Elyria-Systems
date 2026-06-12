@@ -8,9 +8,10 @@
 ![Elyria Systems](https://img.shields.io/badge/Elyria%20Systems-Consequence%20Resolution-8b5e66?style=for-the-badge)
 ![33D](https://img.shields.io/badge/33D-Admissibility%20Geometry-c98f9a?style=for-the-badge)
 
-### ◈ ⬡ ⟁ ◫ ◬ ◆ ◩ ◇ ▣ ▸ ◧ ⬡ ◈
+### Ω ∂A Φ Ξ ΛR ΔD ε ∇Ξ Ω Φ ∂A Ω
 ### **E L Y R I A  ·  S Y S T E M S**
 ### ∂A · Φ(x)=C(x)−M(x) · Ω(t)≥ε · ΛR>ΔD · R={z:A(z)≥0,Φ(z)≥0,U(z)=1}
+### Ω₃₃ · ∂A₃₃ · Φ₃₃ · Ξ₃₃ · ΛR₃₃ → admitted continuation
 
 ![Execution](https://img.shields.io/badge/Execution-Admitted%20Before%20Effect-fff7f5?style=flat-square)
 ![Receipt](https://img.shields.io/badge/Receipt-Replay%20Required-d8b6b9?style=flat-square)
@@ -37,7 +38,7 @@
 
 ---
 
-## ◈ Executive Position
+## Ω Executive Position
 
 ![Position](https://img.shields.io/badge/Position-Founder%20Authority-fff7f5?style=flat-square) ![Governance](https://img.shields.io/badge/Governance-Consequence%20Resolution-d8b6b9?style=flat-square)
 
@@ -61,7 +62,7 @@ If yes, the boundary is not complete.
 
 ---
 
-## ⬡ The Doctrine
+## ∂A The Doctrine
 
 ![Doctrine](https://img.shields.io/badge/Doctrine-Prevented%20Consequence-fff7f5?style=flat-square) ![Proof](https://img.shields.io/badge/Proof-What%20Cannot%20Happen-8b5e66?style=flat-square)
 
@@ -90,7 +91,7 @@ The proof surface is the prevented consequence.
 
 ---
 
-## ⟁ Why Elyria Exists
+## Φ Why Elyria Exists
 
 ![Boundary](https://img.shields.io/badge/Boundary-Before%20Consequence-d8b6b9?style=flat-square) ![Standing](https://img.shields.io/badge/Standing-Resolved%20First-fff7f5?style=flat-square)
 
@@ -118,7 +119,7 @@ It is documenting exposure.
 
 ---
 
-## ◫ The Elyria Standard
+## Ξ The Elyria Standard
 
 ![Standard](https://img.shields.io/badge/Standard-Admissibility%20Geometry-fff7f5?style=flat-square) ![Runtime](https://img.shields.io/badge/Runtime-Receipt%20%2B%20Replay-d8b6b9?style=flat-square)
 
@@ -145,7 +146,7 @@ The standard is whether invalid movement can still become real.
 
 ---
 
-## ◬ Root Architecture
+## ΛR Root Architecture
 
 ![Root](https://img.shields.io/badge/Root-Controlled%20Theory-8b5e66?style=flat-square) ![Geometry](https://img.shields.io/badge/Geometry-Shape%20Capacity%20Law-fff7f5?style=flat-square)
 
@@ -179,7 +180,7 @@ The protected layer preserves the machinery.
 
 ---
 
-## ◆ Applied Domains
+## ΔD Applied Domains
 
 ![Domains](https://img.shields.io/badge/Domains-AI%20Thermal%20Coherence%20Discovery-d8b6b9?style=flat-square) ![Corridors](https://img.shields.io/badge/Corridors-Bounded%20Proof-fff7f5?style=flat-square)
 
@@ -221,7 +222,7 @@ They must survive lineage, non-interference, device constraints, witness closure
 
 ---
 
-## ◩ What I Build
+## ε What I Build
 
 ![Build](https://img.shields.io/badge/Build-Governed%20Objects-d8b6b9?style=flat-square) ![Pilot](https://img.shields.io/badge/Pilot-Proof%20Corridors-8b5e66?style=flat-square)
 
@@ -251,7 +252,7 @@ They determine whether movement is admitted, held, narrowed, escalated, refused,
 
 ---
 
-## ◇ Public Product Surface
+## ∇ Public Product Surface
 
 ![Public](https://img.shields.io/badge/Public%20Layer-Buyer%20Safe-fff7f5?style=flat-square) ![Protected](https://img.shields.io/badge/Protected%20Layer-Machinery%20Sealed-8b5e66?style=flat-square)
 
@@ -281,7 +282,7 @@ Controlled engagements handle implementation-grade runtime architecture, product
 
 ---
 
-## ▣ Product Ladder
+## ∴ Product Ladder
 
 ![Products](https://img.shields.io/badge/Products-Buyer%20Surface-d8b6b9?style=flat-square) ![Implementation](https://img.shields.io/badge/Implementation-Controlled%20Engagement-fff7f5?style=flat-square)
 
@@ -311,7 +312,7 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
-## ▸ Public Repositories
+## ∵ Public Repositories
 
 ![Repos](https://img.shields.io/badge/Repositories-Public%20Proof%20Surface-d8b6b9?style=flat-square)
 
@@ -346,7 +347,7 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
-## ◧ What This Is / What This Is Not
+## ⇒ What This Is / What This Is Not
 
 ![Boundary](https://img.shields.io/badge/Boundary-Category%20Discipline-8b5e66?style=flat-square)
 
@@ -364,7 +365,7 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
-## ⬡ Proof Surface
+## Ω Proof Surface
 
 ![Proof](https://img.shields.io/badge/Proof-Receipt%20Digest%20Replay-d8b6b9?style=flat-square) ![No Effect](https://img.shields.io/badge/No--Effect-Invalid%20Movement%20Cannot%20Bind-fff7f5?style=flat-square)
 
@@ -391,7 +392,7 @@ It can expose how authority, evidence, refusal, receipt, replay, validators, sta
 
 ---
 
-## ◈ Commercial Boundary
+## Φ Commercial Boundary
 
 ![Commercial](https://img.shields.io/badge/Commercial-Controlled%20Review-8b5e66?style=flat-square) ![Access](https://img.shields.io/badge/Access-Public%20Visibility%20%E2%89%A0%20Permission-d8b6b9?style=flat-square)
 
@@ -407,7 +408,7 @@ Protected Elyria Systems implementation work, proof machinery, validator logic, 
 
 ---
 
-## ▦ Engagement Path
+## ∂ Engagement Path
 
 ![Engagement](https://img.shields.io/badge/Engagement-Bounded%20Pilot%20Corridor-fff7f5?style=flat-square) ![Review](https://img.shields.io/badge/Review-Proof%20Before%20Build-d8b6b9?style=flat-square)
 
@@ -424,7 +425,7 @@ Protected Elyria Systems implementation work, proof machinery, validator logic, 
 
 ---
 
-## ◫ Research and Publication Surface
+## Ξ Research and Publication Surface
 
 ![Research](https://img.shields.io/badge/Research-Zenodo%20%2B%20ORCID-fff7f5?style=flat-square) ![Surface](https://img.shields.io/badge/Surface-Multi--Domain%20Portfolio-d8b6b9?style=flat-square)
 
@@ -438,7 +439,7 @@ The public research and proof surface spans buyer intake, readiness scoring, mov
 
 ---
 
-## ▣ Certification
+## Λ Certification
 
 ![Certification](https://img.shields.io/badge/Certification-micro1%20Independent%20Systems%20Engineer-d8b6b9?style=flat-square)
 
@@ -447,7 +448,7 @@ Certified January 31, 2026
 
 ---
 
-## ◇ Core Line
+## ε Core Line
 
 ![Core](https://img.shields.io/badge/Core-Line%20of%20Elyria-8b5e66?style=flat-square)
 
