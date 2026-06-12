@@ -312,38 +312,59 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
-## ∵ Public Repositories
+## ∵ Core Public Proof Estate
 
-![Repos](https://img.shields.io/badge/Repositories-Public%20Proof%20Surface-d8b6b9?style=flat-square)
+![Repos](https://img.shields.io/badge/Repositories-Core%20Proof%20Estate-d8b6b9?style=flat-square) ![Estate](https://img.shields.io/badge/Estate-Highest%20Level%20Public%20Surface-8b5e66?style=flat-square)
 
-### 1. Samantha-Revita-Elyria-Systems
+### 1. bind-time-authority-proof
 
-**Role:** Authority repo for Samantha Revita, Elyria Systems, consequence-resolution architecture, and public-safe positioning.  
-**Repo:** https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems
+**Role:** Highest-value authority proof surface for bind-time standing, consequence admission, and execution legitimacy.  
+**Repo:** https://github.com/Kamanaka5502/bind-time-authority-proof
 
-### 2. elyria-build-tool
+### 2. elyria-financial-motion-governance
 
-**Role:** Buyer-facing governance intake and build-ready blueprint product.  
-**Repo:** https://github.com/Kamanaka5502/elyria-build-tool
+**Role:** Financial movement governance corridor for money-adjacent consequence, payment standing, admissibility, and refusal before protected effect.  
+**Repo:** https://github.com/Kamanaka5502/elyria-financial-motion-governance
 
-### 3. board-ai-dependency-boundary
+### 3. elyria-financial-motion-assurance
 
-**Role:** Board-facing AI dependency assurance sandbox with receipt integrity, replay, revalidation, and no-effect authorization behavior.  
+**Role:** Financial motion assurance surface supporting review, validation, and proof discipline for financial-consequence movement.  
+**Repo:** https://github.com/Kamanaka5502/elyria-financial-motion-assurance
+
+### 4. elyria-field-laws
+
+**Role:** Field-law layer for the formal rules, invariants, and lawful-continuation framing behind Elyria Systems.  
+**Repo:** https://github.com/Kamanaka5502/elyria-field-laws
+
+### 5. elyria-fieldchain-distributed
+
+**Role:** Distributed fieldchain surface for proof continuity, distributed consequence tracking, and multi-node governance structure.  
+**Repo:** https://github.com/Kamanaka5502/elyria-fieldchain-distributed
+
+### 6. elyria-consequence-boundary-infrastructure
+
+**Role:** Consequence-boundary infrastructure surface for admissibility, protected-effect control, and execution-boundary framing.  
+**Repo:** https://github.com/Kamanaka5502/elyria-consequence-boundary-infrastructure
+
+### 7. elyria-execution-governance-portfolio
+
+**Role:** Portfolio-level execution governance surface connecting multiple Elyria corridors into a broader public proof estate.  
+**Repo:** https://github.com/Kamanaka5502/elyria-execution-governance-portfolio
+
+### 8. invisible-middle-intelligence-layer
+
+**Role:** Middle-layer intelligence surface for decision mediation between systems, workflows, authority, evidence, and consequence.  
+**Repo:** https://github.com/Kamanaka5502/invisible-middle-intelligence-layer
+
+### 9. lpem-proof-estate
+
+**Role:** Proof-estate layer for protected proof surfaces, admissibility posture, and public-safe review framing.  
+**Repo:** https://github.com/Kamanaka5502/lpem-proof-estate
+
+### 10. board-ai-dependency-boundary
+
+**Role:** Board-facing AI dependency assurance sandbox with receipt integrity, deterministic replay, changed-condition revalidation, and no-effect authorization behavior.  
 **Repo:** https://github.com/Kamanaka5502/board-ai-dependency-boundary
-
-### 4. elyria-readiness-report-generator
-
-**Role:** Readiness scoring and gap matrix surface.  
-**Repo:** https://github.com/Kamanaka5502/elyria-readiness-report-generator
-
-### 5. Kamanaka5502
-
-**Role:** Profile identity repo.  
-**Repo:** https://github.com/Kamanaka5502/Kamanaka5502
-
-### 6. Reserved Slot
-
-**Role:** Next controlled public-safe Elyria product or proof corridor surface.
 
 ---
 
