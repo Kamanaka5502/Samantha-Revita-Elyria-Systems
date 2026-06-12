@@ -1,9 +1,9 @@
 # Samantha Revita — Elyria Systems
 
-## Consequence-Bound Governance Architecture for AI, Automation, and Runtime Movement
+## Consequence-Resolution Architecture for AI, Automation, Runtime Movement, and Applied Discovery
 
 > **Execution is not assumed. It is admitted.**  
-> **A movement does not become real consequence unless authority, evidence, scope, state, and consequence conditions resolve first.**
+> **Consequence does not become real arbitrarily. Movement must resolve under authority, evidence, capacity, scope, continuity, and lawful continuation before it binds.**
 
 **Founder / Lead Architect:** Samantha Revita  
 **System:** Elyria Systems  
@@ -13,24 +13,52 @@
 
 ---
 
-## Core Position
+## Executive Position
 
-I build governance architecture for systems where an action can become consequence.
+I build consequence-resolution architecture: systems that decide whether a proposed action, workflow, AI output, access event, payment, dependency, thermal burden, evidence claim, or discovery candidate has standing to become real consequence.
 
-That includes AI workflows, autonomous agents, access events, payment approvals, recommendations, operational decisions, vendor dependencies, model-assisted workflows, and execution paths that can affect people, records, systems, money, authority, rights, continuity, or trust.
+The work begins where ordinary governance usually arrives too late.
 
-This work is not policy decoration.  
-This work is not a dashboard.  
-This work is not after-the-fact compliance language.  
-This work is not a checklist wrapped around an already-moving system.
+A dashboard can display movement.  
+A policy can describe intent.  
+A log can remember execution.  
+A review step can slow a decision.  
+A checklist can collect answers.
 
-This is the execution boundary: the point where a proposed action, decision, workflow, model output, tool call, access event, payment, dependency, or recommendation is trying to become real.
+None of those prove that inadmissible movement could not bind consequence.
 
-The governing question is simple:
+Elyria Systems is built around the stricter question:
 
-> **Can inadmissible movement become real consequence?**
+> **Can invalid movement become real?**
 
-If yes, the system is not fully governed.
+If yes, the boundary is not complete.
+
+---
+
+## The Doctrine
+
+Movement governance is not proven by naming a gate.
+
+It is proven by what cannot happen.
+
+A serious governance runtime must show:
+
+- **what movement was proposed**
+- **what movement was admitted**
+- **what movement was refused**
+- **what protected effect was prevented**
+- **what authority was checked**
+- **what evidence survived**
+- **what continuity changed**
+- **what receipt was produced**
+- **what replay verifies**
+- **what happens when conditions change**
+
+The proof surface is not the label on the system.
+
+The proof surface is the prevented consequence.
+
+> **Possibility is not standing. Activity is not proof. A record is not replay. A checkpoint is not governance.**
 
 ---
 
@@ -43,42 +71,117 @@ Models can influence decisions.
 Vendors can become infrastructure.  
 Memory can persist beyond approval.  
 Automations can mutate records.  
-Recommendations can become action.  
 Payments can bind.  
-Access can be granted before standing is proven.
+Access can be granted before standing is proven.  
+Heat can accumulate before the field can carry it.  
+Discovery candidates can be generated before they survive lawful checks.
 
-Most governance arrives after movement has already happened.
+Most systems treat consequence as an after-effect.
 
-Elyria reverses that order.
+Elyria treats consequence as the boundary condition.
 
-The system must answer what is allowed to move, who or what has authority, what evidence must exist, what consequence can bind, what must be refused, what must be held, what receipt proves the decision, and what replay can verify later.
+The system must answer what is allowed to move, what authority exists, what evidence is fresh, what capacity remains, what scope applies, what consequence could bind, what must be refused, what must be held, what receipt proves the decision, and what replay can verify later.
 
-If the system cannot answer those questions before movement binds, it is not governing execution. It is documenting exposure.
+If the system cannot answer before movement binds, it is not governing execution.
+
+It is documenting exposure.
 
 ---
 
 ## The Elyria Standard
 
-A governed system must be able to prove:
+A governed system must prove that movement remained admissible across the standing geometry before effect formed.
 
-- **what movement was proposed**
-- **what consequence could bind**
-- **what authority was required**
-- **what evidence was required**
-- **what conditions were checked**
-- **what was admitted**
-- **what was held**
-- **what was refused**
-- **what protected effect was prevented**
-- **what receipt was created**
-- **what replay can reproduce**
-- **what changes force revalidation**
+Minimum proof fields:
 
-The standard is not whether a system has policies.
+| Runtime field | What it must prove |
+|---|---|
+| **Movement** | Proposed, admitted, held, refused, or halted before protected effect |
+| **Authority** | Current standing at bind time |
+| **Evidence** | Fresh, scoped, surviving, and bound to the decision |
+| **Capacity** | Remaining room for lawful continuation |
+| **Continuity** | No lawful chain break before consequence |
+| **Receipt** | Decision basis, refusal reason, protected effect, and replay token |
+| **Replay** | Legitimacy reconstruction, not just outcome reproduction |
+| **Revalidation** | Standing is checked again when authority, evidence, scope, or conditions change |
+
+The standard is not whether a system has controls.
 
 The standard is whether invalid movement can still become real.
 
 > **If inadmissible movement can bind consequence, the boundary has failed.**
+
+---
+
+## Root Architecture
+
+The private and controlled research surface is larger than a single product.
+
+It includes a consequence-resolution framework in which transitions become lawful only when they survive shape, capacity, invariant law, transfer, evidence, and lawful continuation.
+
+Public-safe expression:
+
+```text
+Proposed movement
+        ↓
+Standing check
+        ↓
+Authority / evidence / scope / capacity resolution
+        ↓
+Admit / hold / refuse / halt / revalidate
+        ↓
+Receipt
+        ↓
+Replay
+        ↓
+Protected consequence only if admissible
+```
+
+This is the foundation behind the applied Elyria product layer.
+
+The public layer shows the geometry.
+
+The protected layer preserves the machinery.
+
+---
+
+## Applied Domains
+
+Elyria Systems applies consequence-resolution architecture across multiple corridors.
+
+### AI and Automation Governance
+
+AI workflows, agents, recommendations, access events, tool calls, model outputs, payment approvals, and operational decisions are evaluated before they bind protected effect.
+
+### Board AI Dependency Boundary
+
+AI dependencies are reviewed before they become structural, load-bearing, memory-bearing, autonomous, cross-border, or board-relevant exposure.
+
+The surface includes receipt integrity, deterministic replay, changed-condition revalidation, and no-effect behavior for non-admitted dependencies.
+
+### Governance Intake and Blueprinting
+
+Buyer concerns are converted into governed objects, consequence boundaries, authority requirements, evidence requirements, admit / hold / refuse matrices, failure modes, receipt requirements, replay requirements, and pilot-corridor plans.
+
+### Basin Thermodynamics
+
+Thermal movement is treated as governed consequence.
+
+A device action proposes heat. The field evaluates capacity. The heat may remain, route, partially bind, or refuse before violation.
+
+Waste heat is not merely waste when the basin can lawfully receive it.
+
+### Recursive Coherence Mathematics
+
+Persistence is treated as admitted recoverability under bounded coherence loss.
+
+A system survives only while restorative dynamics exceed fracture production and recoverability remains dynamically admissible.
+
+### Governed Hologram and Material-Basin Discovery
+
+Discovery candidates are not treated as valid merely because they are generated.
+
+They must survive lineage, non-interference, device constraints, witness closure, reproducibility, domain checks, and public-claim boundaries before they advance.
 
 ---
 
@@ -90,13 +193,14 @@ I build consequence-bound governance systems across the full execution lifecycle
 - **consequence mapping**
 - **authority requirements**
 - **evidence requirements**
+- **capacity and burden checks**
 - **admissibility boundaries**
 - **admit / hold / refuse structures**
 - **halt / revoke / quarantine / revalidate behavior**
 - **failure-mode surfaces**
 - **protected-effect boundaries**
 - **receipt requirements**
-- **replay requirements**
+- **deterministic replay requirements**
 - **readiness reports**
 - **runtime handoff packages**
 - **pilot corridor planning**
@@ -106,35 +210,6 @@ I build consequence-bound governance systems across the full execution lifecycle
 These are execution-boundary systems, not policy wrappers.
 
 They determine whether movement is admitted, held, narrowed, escalated, refused, halted, revoked, quarantined, or revalidated before it creates consequence.
-
----
-
-## Category Definition
-
-Governance is not a checklist.
-
-Governance is an execution field with:
-
-- **standing conditions**
-- **protected effects**
-- **evidence requirements**
-- **authority boundaries**
-- **failure behavior**
-- **receipt integrity**
-- **replay basis**
-- **consequence lifecycle**
-
-A policy may describe intent.  
-A log may record activity.  
-A review step may slow execution.  
-A dashboard may show status.  
-A checklist may collect answers.
-
-None of those prove invalid movement could not become real.
-
-The Elyria category is stricter:
-
-> **Movement is not governed because it was reviewed. Movement is governed only when invalid movement cannot bind protected consequence.**
 
 ---
 
@@ -149,20 +224,20 @@ Governed object definition
         ↓
 Consequence boundary
         ↓
-Authority and evidence requirements
+Authority, evidence, scope, and capacity requirements
         ↓
 Admit / hold / refuse matrix
         ↓
 Receipt and replay requirements
         ↓
-Pilot corridor
+Bounded pilot corridor
         ↓
-Protected runtime implementation
+Controlled implementation path
 ```
 
-Public repositories expose buyer-safe intake, readiness, proof language, and sandbox surfaces.
+Public repositories expose buyer-safe intake, readiness, proof language, sandbox behavior, and bounded demonstration surfaces.
 
-Controlled engagements handle implementation-grade runtime architecture, production proof corridors, private validators, and protected machinery.
+Controlled engagements handle implementation-grade runtime architecture, production proof corridors, private validators, customer-specific builds, and protected machinery.
 
 ---
 
@@ -170,10 +245,10 @@ Controlled engagements handle implementation-grade runtime architecture, product
 
 ```text
 Elyria Build Tool
-Defines what must be governed.
+Defines what must be governed and produces a build-ready governance blueprint.
 
 Board AI Dependency Boundary
-Reviews whether AI dependencies are becoming load-bearing before board authority, receipt, replay, reversibility, and consequence exposure are proven.
+Reviews whether AI dependencies are becoming load-bearing before authority, receipt, replay, reversibility, and consequence exposure are proven.
 
 Elyria Readiness Report Generator
 Scores whether the buyer is ready for pilot review.
@@ -185,7 +260,7 @@ Custom Proof Receipt Generator
 Buyer-specific controlled build.
 
 Pilot Corridor
-Runtime path for bounded proof, refusal behavior, receipt creation, replay, and revalidation.
+Bounded proof path for refusal behavior, receipt creation, replay, no-effect outcomes, and revalidation.
 ```
 
 Public products expose intake, readiness, sandbox review, and scoping structure.
@@ -194,11 +269,11 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ---
 
-## Six Pinned Repositories
+## Public Repositories
 
 ### 1. Samantha-Revita-Elyria-Systems
 
-**Role:** Portfolio and authority repo for Elyria Systems and consequence-bound governance positioning.  
+**Role:** Authority repo for Samantha Revita, Elyria Systems, consequence-resolution architecture, and public-safe positioning.  
 **Repo:** https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems
 
 ### 2. elyria-build-tool
@@ -223,9 +298,7 @@ Controlled engagements handle implementation-grade proof surfaces.
 
 ### 6. Reserved Slot
 
-**Role:** Next controlled public-safe Elyria product.
-
-Each repo is part of the public surface of Elyria Systems.
+**Role:** Next controlled public-safe Elyria product or proof corridor surface.
 
 ---
 
@@ -233,24 +306,26 @@ Each repo is part of the public surface of Elyria Systems.
 
 | This is | This is not |
 |---|---|
-| **Consequence-bound governance architecture** | Generic compliance copy |
-| **Execution-boundary design** | Policy theater |
-| **Buyer intake and scope definition** | A dashboard skin |
-| **Authority and evidence structuring** | After-the-fact reporting |
-| **Admit / hold / refuse logic surfaces** | Uncontrolled production machinery |
+| **Consequence-resolution architecture** | Generic compliance copy |
+| **Movement-governance doctrine** | Policy theater |
+| **Execution-boundary design** | A dashboard skin |
+| **Authority, evidence, capacity, and continuity structuring** | After-the-fact reporting |
+| **Admit / hold / refuse / halt / revalidate logic** | Decorative workflow approval |
 | **Receipt and replay requirement design** | Empty audit language |
 | **Public-safe commercial products** | Disclosure of protected implementation internals |
 | **Pilot corridor preparation** | Legal, regulatory, or security certification |
+| **Controlled review posture** | Open-source release of private machinery |
 
 ---
 
 ## Proof Surface
 
-The public proof surface is designed to show the shape of the work without exposing the protected machinery.
+The public proof surface is designed to show the shape of the work without exposing protected machinery.
 
 Public-safe proof may include:
 
 - **structured intake**
+- **governed-object definition**
 - **blueprint generation**
 - **decision classification**
 - **receipt requirements**
@@ -260,58 +335,23 @@ Public-safe proof may include:
 - **no-effect authorization behavior**
 - **bounded sandbox deployment**
 - **pilot corridor readiness**
+- **public-claim boundary discipline**
 
 Protected work remains controlled because implementation-grade governance exposes more than templates.
 
-It can expose how authority, evidence, refusal, receipt, replay, validators, state, and protected effects are structured into a working system.
-
----
-
-## Higher-Level Work
-
-Beyond the public product layer, I design controlled governance implementation pathways for:
-
-- **proof receipt planning**
-- **replay basis definition**
-- **protected-effect control**
-- **consequence-bound movement review**
-- **AI dependency boundary assurance**
-- **vendor and memory dependency review**
-- **pilot corridor planning**
-- **runtime handoff structure**
-- **buyer-specific governance architecture**
-- **production licensing pathways**
-
-This work is controlled because public visibility is not the same as implementation permission.
-
----
-
-## Publication and Research Surface
-
-The Elyria Governance Architecture Series is published on Zenodo and tied to ORCID.
-
-- **ORCID:** https://orcid.org/0009-0004-4439-3261
-- **Zenodo DOI:** https://doi.org/10.5281/zenodo.20618521
-- **GitHub:** https://github.com/Kamanaka5502
-
-The public research and proof surface spans buyer intake, readiness scoring, runtime law, consequence-boundary infrastructure, protected-effect framing, deterministic execution validation, and board-facing dependency assurance.
-
----
-
-## Certification
-
-**micro1 — Independent Systems Engineer**  
-Certified January 31, 2026
+It can expose how authority, evidence, refusal, receipt, replay, validators, state, capacity, and protected effects are structured into a working system.
 
 ---
 
 ## Commercial Boundary
 
+Public visibility is not implementation permission.
+
 The public Elyria tools are buyer-facing and public-safe.
 
-They help buyers understand what needs to be governed, what consequence could bind, what authority is required, what evidence must exist, and whether the buyer is ready for deeper review.
+They help buyers understand what must be governed, what consequence could bind, what authority is required, what evidence must exist, what capacity remains, and whether the buyer is ready for deeper review.
 
-Protected Elyria Systems implementation work, proof machinery, validator logic, replay infrastructure, production corridor design, and customer-specific runtime builds remain controlled engagements.
+Protected Elyria Systems implementation work, proof machinery, validator logic, replay infrastructure, production corridor design, private mathematics, customer-specific runtime builds, and strategic category access remain controlled engagements.
 
 > **Show the geometry. Protect the machinery.**
 
@@ -322,12 +362,32 @@ Protected Elyria Systems implementation work, proof machinery, validator logic, 
 ```text
 1. Identify the movement.
 2. Define the consequence boundary.
-3. Identify authority and evidence requirements.
+3. Identify authority, evidence, scope, and capacity requirements.
 4. Build the admit / hold / refuse matrix.
 5. Define receipt and replay requirements.
 6. Run a bounded pilot corridor.
-7. Move to controlled implementation only after the proof surface is clear.
+7. Verify prevented consequence and no-effect behavior.
+8. Move to controlled implementation only after the proof surface is clear.
 ```
+
+---
+
+## Research and Publication Surface
+
+The Elyria Governance Architecture Series is published on Zenodo and tied to ORCID.
+
+- **ORCID:** https://orcid.org/0009-0004-4439-3261
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.20618521
+- **GitHub:** https://github.com/Kamanaka5502
+
+The public research and proof surface spans buyer intake, readiness scoring, movement governance, consequence-boundary infrastructure, protected-effect framing, deterministic execution validation, thermal movement governance, recursive coherence mathematics, material-basin discovery posture, governed hologram synthesis, and board-facing dependency assurance.
+
+---
+
+## Certification
+
+**micro1 — Independent Systems Engineer**  
+Certified January 31, 2026
 
 ---
 
