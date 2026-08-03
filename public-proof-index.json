@@ -1,0 +1,88 @@
+{
+  "schema": "elyria.public-proof-index.v1",
+  "owner": "Kamanaka5502",
+  "architect": "Samantha Revita-Wagner",
+  "governing_rule": "Where the evidence stops, the claim stops.",
+  "generic_account_is_evidence": false,
+  "required_public_fields": [
+    "claim",
+    "repository",
+    "revision",
+    "workflow_or_artifact",
+    "tested_corridor",
+    "claim_maturity",
+    "boundary",
+    "attribution"
+  ],
+  "claim_maturity_order": [
+    "HYPOTHESIS",
+    "IMPLEMENTED",
+    "INTERNALLY_TESTED",
+    "ADVERSARIALLY_TESTED",
+    "EXTERNALLY_INTEGRATED",
+    "INDEPENDENTLY_REPRODUCED"
+  ],
+  "surfaces": [
+    {
+      "id": "elyria-field-admission-runtime-v0.6.0",
+      "repository": "https://github.com/Kamanaka5502/elyria-field-admission-runtime",
+      "pull_request": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/pull/7",
+      "validated_head": "8434e2ab4af570fc62c567a2cb0e05f4b842dee0",
+      "claim": "Bounded software-in-the-loop standing resolution, proof-bound authority, signed consumption attestation, continuity custody, and exactly-once protected consequence commitment.",
+      "claim_maturity": "ADVERSARIALLY_TESTED",
+      "tested_corridor": "Declared Python 3.11 and 3.12 software workflows and negative regressions.",
+      "boundary": "No physical truth, qualified sensing, certified functional safety, hard real-time guarantee, isolated production gateway, managed KMS/HSM deployment, guarded-workcell validation, independent reproduction, or production admission.",
+      "architect": "Samantha Revita-Wagner",
+      "collaborators": []
+    },
+    {
+      "id": "elyria-execution-governance-portfolio",
+      "repository": "https://github.com/Kamanaka5502/elyria-execution-governance-portfolio",
+      "claim": "Public index of bounded pre-effect execution-governance proof modules, deterministic receipts, custody checks, and explicit refusal paths.",
+      "claim_maturity": "INTERNALLY_TESTED",
+      "tested_corridor": "Only the exact modules and artifacts identified inside the portfolio.",
+      "boundary": "No universal governance, regulatory certification, physical-system validation, or complete prevention of software risk.",
+      "architect": "Samantha Revita-Wagner",
+      "collaborators": []
+    },
+    {
+      "id": "bind-time-authority-proof",
+      "repository": "https://github.com/Kamanaka5502/bind-time-authority-proof",
+      "claim": "Authority and current standing are evaluated at the bind-time boundary where protected consequence would form.",
+      "claim_maturity": "INTERNALLY_TESTED",
+      "tested_corridor": "Repository-specific tests and proof artifacts only.",
+      "boundary": "No physical, regulatory, or universal execution-governance claim.",
+      "architect": "Samantha Revita-Wagner",
+      "collaborators": []
+    },
+    {
+      "id": "elyria-pre-effect-enforcement-harness",
+      "repository": "https://github.com/Kamanaka5502/elyria-pre-effect-enforcement-harness",
+      "claim": "Executable bounded refusal and no-effect behavior before protected consequence forms.",
+      "claim_maturity": "INTERNALLY_TESTED",
+      "tested_corridor": "Repository-specific harness and workflow evidence only.",
+      "boundary": "No production, physical, regulatory, or certified safety claim.",
+      "architect": "Samantha Revita-Wagner",
+      "collaborators": []
+    },
+    {
+      "id": "elyria-financial-motion-governance",
+      "repository": "https://github.com/Kamanaka5502/elyria-financial-motion-governance",
+      "claim": "Bounded financial-motion admission, deterministic receipt generation, and custody classification before simulated value movement.",
+      "claim_maturity": "INTERNALLY_TESTED",
+      "tested_corridor": "Declared repository workflow and artifact evidence.",
+      "boundary": "No bank certification, payment-rail certification, statutory compliance, or real funds-transfer production claim.",
+      "architect": "Samantha Revita-Wagner",
+      "collaborators": []
+    }
+  ],
+  "attribution": {
+    "elyria_systems": {
+      "founder_and_lead_architect": "Samantha Revita-Wagner"
+    },
+    "veritas_aegis": {
+      "founder_and_lead_architect": "Terry Snyder"
+    },
+    "collaboration_rule": "Terry Snyder is attributed only where a repository, document, commit, or proof surface explicitly declares shared lineage, collaboration, or co-development."
+  }
+}
