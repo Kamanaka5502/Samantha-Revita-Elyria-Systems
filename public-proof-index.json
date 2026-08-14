@@ -1,16 +1,34 @@
 {
-  "schema": "elyria.public-proof-index.v1",
+  "schema": "elyria.public-proof-index.v2",
+  "generated_at": "2026-08-05",
   "owner": "Kamanaka5502",
-  "architect": "Samantha Revita-Wagner",
-  "governing_rule": "Where the evidence stops, the claim stops.",
+  "architect": "Samantha Beatrice Revita-Wagner",
+  "estate_snapshot": {
+    "total_repositories": 118,
+    "public_repositories": 40,
+    "private_repositories": 78
+  },
+  "governing_rules": [
+    "Repository existence does not create canonical standing.",
+    "Where the evidence stops, the claim stops.",
+    "Where access stops, public verification stops.",
+    "Versions are local to a repository and cannot establish cross-repository precedence.",
+    "A pull-request candidate is not a merged main release."
+  ],
   "generic_account_is_evidence": false,
   "required_public_fields": [
-    "claim",
+    "id",
+    "role",
     "repository",
+    "access",
+    "admitted_as_public_proof",
     "revision",
+    "revision_state",
     "workflow_or_artifact",
+    "claim",
     "tested_corridor",
     "claim_maturity",
+    "public_verification_posture",
     "boundary",
     "attribution"
   ],
@@ -22,67 +40,215 @@
     "EXTERNALLY_INTEGRATED",
     "INDEPENDENTLY_REPRODUCED"
   ],
-  "surfaces": [
+  "public_surfaces": [
     {
-      "id": "elyria-field-admission-runtime-v0.6.0",
-      "repository": "https://github.com/Kamanaka5502/elyria-field-admission-runtime",
-      "pull_request": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/pull/7",
-      "validated_head": "8434e2ab4af570fc62c567a2cb0e05f4b842dee0",
-      "claim": "Bounded software-in-the-loop standing resolution, proof-bound authority, signed consumption attestation, continuity custody, and exactly-once protected consequence commitment.",
-      "claim_maturity": "ADVERSARIALLY_TESTED",
-      "tested_corridor": "Declared Python 3.11 and 3.12 software workflows and negative regressions.",
-      "boundary": "No physical truth, qualified sensing, certified functional safety, hard real-time guarantee, isolated production gateway, managed KMS/HSM deployment, guarded-workcell validation, independent reproduction, or production admission.",
-      "architect": "Samantha Revita-Wagner",
-      "collaborators": []
-    },
-    {
-      "id": "elyria-execution-governance-portfolio",
-      "repository": "https://github.com/Kamanaka5502/elyria-execution-governance-portfolio",
-      "claim": "Public index of bounded pre-effect execution-governance proof modules, deterministic receipts, custody checks, and explicit refusal paths.",
+      "id": "case-elyria-boundary-layer",
+      "role": "canonical_public_artifact_boundary_proof",
+      "repository": "https://github.com/Kamanaka5502/C.A.S.E.-Elyria-Systems-Boundary-Layer",
+      "access": "PUBLIC",
+      "admitted_as_public_proof": true,
+      "revision": "5ee27ea435f222eeab7fd4ef2696ee20a027ec17",
+      "revision_state": "MAIN",
+      "revision_url": "https://github.com/Kamanaka5502/C.A.S.E.-Elyria-Systems-Boundary-Layer/commit/5ee27ea435f222eeab7fd4ef2696ee20a027ec17",
+      "workflow_or_artifact": [
+        {
+          "type": "local_verification_command",
+          "value": "npm install && npm run verify",
+          "expected_result": "RESULT: C.A.S.E. BOUNDARY PASS"
+        }
+      ],
+      "claim": "A bounded local artifact enters a boundary envelope where standing is rebound, admissibility is checked, refusal or review-only posture is emitted, receipts are preserved, replay compares governing conditions, and tamper breaks lineage verification.",
+      "tested_corridor": "Repository-local stable release-hash verification and stable proof-suite execution.",
       "claim_maturity": "INTERNALLY_TESTED",
-      "tested_corridor": "Only the exact modules and artifacts identified inside the portfolio.",
-      "boundary": "No universal governance, regulatory certification, physical-system validation, or complete prevention of software risk.",
-      "architect": "Samantha Revita-Wagner",
-      "collaborators": []
-    },
-    {
-      "id": "bind-time-authority-proof",
-      "repository": "https://github.com/Kamanaka5502/bind-time-authority-proof",
-      "claim": "Authority and current standing are evaluated at the bind-time boundary where protected consequence would form.",
-      "claim_maturity": "INTERNALLY_TESTED",
-      "tested_corridor": "Repository-specific tests and proof artifacts only.",
-      "boundary": "No physical, regulatory, or universal execution-governance claim.",
-      "architect": "Samantha Revita-Wagner",
-      "collaborators": []
+      "public_verification_posture": "PUBLICLY_REPRODUCIBLE",
+      "boundary": "No production certification, third-party certification, deployed no-bypass proof, customer corridor certification, or protected kernel disclosure.",
+      "attribution": {
+        "architect": "Samantha Beatrice Revita-Wagner",
+        "collaborators": []
+      }
     },
     {
       "id": "elyria-pre-effect-enforcement-harness",
+      "role": "canonical_public_no_effect_proof",
       "repository": "https://github.com/Kamanaka5502/elyria-pre-effect-enforcement-harness",
-      "claim": "Executable bounded refusal and no-effect behavior before protected consequence forms.",
+      "access": "PUBLIC",
+      "admitted_as_public_proof": true,
+      "revision": "ab4f3871a43f5221ec0ff5d9aaaa85508ad0b10b",
+      "revision_state": "MAIN",
+      "revision_url": "https://github.com/Kamanaka5502/elyria-pre-effect-enforcement-harness/commit/ab4f3871a43f5221ec0ff5d9aaaa85508ad0b10b",
+      "workflow_or_artifact": [
+        {
+          "type": "local_verification_command",
+          "value": "python -m app.prove --case all",
+          "expected_result": "OVERALL: PRE_EFFECT_INVARIANT_HOLDS"
+        }
+      ],
+      "claim": "Within the bounded demonstrator, only EXECUTE may mutate protected state and every non-EXECUTE outcome must leave protected state unchanged.",
+      "tested_corridor": "Repository-local valid execute, invalid authority, stale evidence, degraded visibility, and integrity-failure cases.",
       "claim_maturity": "INTERNALLY_TESTED",
-      "tested_corridor": "Repository-specific harness and workflow evidence only.",
-      "boundary": "No production, physical, regulatory, or certified safety claim.",
-      "architect": "Samantha Revita-Wagner",
-      "collaborators": []
+      "public_verification_posture": "PUBLICLY_REPRODUCIBLE",
+      "boundary": "No production substrate, deployment authorization, open-source license, physical-system validation, or certified safety claim.",
+      "attribution": {
+        "architect": "Samantha Beatrice Revita-Wagner",
+        "collaborators": []
+      }
     },
     {
       "id": "elyria-financial-motion-governance",
+      "role": "canonical_public_financial_motion_proof",
       "repository": "https://github.com/Kamanaka5502/elyria-financial-motion-governance",
-      "claim": "Bounded financial-motion admission, deterministic receipt generation, and custody classification before simulated value movement.",
+      "access": "PUBLIC",
+      "admitted_as_public_proof": true,
+      "revision": "62b60cfab45c9f9cbf5d869a11e5d47f96906918",
+      "revision_state": "MAIN",
+      "revision_url": "https://github.com/Kamanaka5502/elyria-financial-motion-governance/commit/62b60cfab45c9f9cbf5d869a11e5d47f96906918",
+      "workflow_or_artifact": [
+        {
+          "type": "local_verification_command",
+          "value": "python run_proofs.py",
+          "expected_result": "total_cases: 10; passed: 10; failed: 0; settlement_execution_performed: false"
+        }
+      ],
+      "claim": "The bounded public harness classifies synthetic AI-assisted financial intent before simulated value-bearing motion and keeps unresolved review, escalation, quarantine, or refusal non-binding.",
+      "tested_corridor": "Ten repository-local synthetic financial-motion cases; no settlement execution or payment-rail access.",
       "claim_maturity": "INTERNALLY_TESTED",
-      "tested_corridor": "Declared repository workflow and artifact evidence.",
-      "boundary": "No bank certification, payment-rail certification, statutory compliance, or real funds-transfer production claim.",
-      "architect": "Samantha Revita-Wagner",
-      "collaborators": []
+      "public_verification_posture": "PUBLICLY_REPRODUCIBLE",
+      "boundary": "No bank certification, payment-rail certification, statutory compliance, custody-service status, live funds transfer, or production deployment claim.",
+      "attribution": {
+        "architect": "Samantha Beatrice Revita-Wagner",
+        "collaborators": []
+      }
+    },
+    {
+      "id": "bind-time-authority-proof",
+      "role": "canonical_public_bind_time_specification",
+      "repository": "https://github.com/Kamanaka5502/bind-time-authority-proof",
+      "access": "PUBLIC",
+      "admitted_as_public_proof": true,
+      "revision": "d71d743e23098fb58454d8d412cb4a988681d2c1",
+      "revision_state": "MAIN",
+      "revision_url": "https://github.com/Kamanaka5502/bind-time-authority-proof/commit/d71d743e23098fb58454d8d412cb4a988681d2c1",
+      "workflow_or_artifact": [
+        {
+          "type": "bounded_specification",
+          "value": "README.md#invariants",
+          "expected_result": "Reviewer can inspect the bind-time authority, deterministic replay, no-resurrection, and mutation-detectability invariants."
+        }
+      ],
+      "claim": "The public-safe specification defines authority revalidation at the exact boundary where protected consequence would form.",
+      "tested_corridor": "Public demonstrator specification and disclosed invariants only; no production cryptography or production authority path is asserted.",
+      "claim_maturity": "IMPLEMENTED",
+      "public_verification_posture": "PUBLICLY_INSPECTABLE",
+      "boundary": "No production authority evaluator, key-management architecture, signing infrastructure, standing-token format, corridor implementation, or production ledger claim.",
+      "attribution": {
+        "architect": "Samantha Beatrice Revita-Wagner",
+        "collaborators": []
+      }
+    },
+    {
+      "id": "elyria-execution-governance-portfolio",
+      "role": "canonical_public_evidence_directory",
+      "repository": "https://github.com/Kamanaka5502/elyria-execution-governance-portfolio",
+      "access": "PUBLIC",
+      "admitted_as_public_proof": true,
+      "revision": "bcceca86e7e51dc878fc70632c872f41bd914a77",
+      "revision_state": "MAIN",
+      "revision_url": "https://github.com/Kamanaka5502/elyria-execution-governance-portfolio/commit/bcceca86e7e51dc878fc70632c872f41bd914a77",
+      "workflow_or_artifact": [
+        {
+          "type": "evidence_directory",
+          "value": "README.md",
+          "expected_result": "Reviewer is routed to exact bounded repositories and their own evidence paths."
+        }
+      ],
+      "claim": "The portfolio provides a human-readable directory of admitted public proof roles and protected reference lineage.",
+      "tested_corridor": "Navigation and claim-control only; underlying technical behavior must be verified in the referenced repository.",
+      "claim_maturity": "IMPLEMENTED",
+      "public_verification_posture": "PUBLICLY_INSPECTABLE",
+      "boundary": "The portfolio is not substitute technical evidence and does not independently establish runtime behavior.",
+      "attribution": {
+        "architect": "Samantha Beatrice Revita-Wagner",
+        "collaborators": []
+      }
+    }
+  ],
+  "protected_reference_surfaces": [
+    {
+      "id": "elyria-field-admission-runtime-v0.6.0",
+      "role": "protected_flagship_reference_implementation_candidate",
+      "repository": "https://github.com/Kamanaka5502/elyria-field-admission-runtime",
+      "access": "PRIVATE_AUTHORIZED",
+      "admitted_as_public_proof": false,
+      "refusal_reason": "The implementation and workflow evidence are not accessible to an unauthenticated public reviewer.",
+      "pull_request": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/pull/7",
+      "revision": "8434e2ab4af570fc62c567a2cb0e05f4b842dee0",
+      "revision_state": "PULL_REQUEST_CANDIDATE",
+      "target_branch": "validation/adversarial-campaign-v1",
+      "main_release_posture": "v0.5.0",
+      "candidate_release_posture": "v0.6.0",
+      "workflow_or_artifact": [
+        {
+          "name": "continuity-custody-validation",
+          "run_id": 30760105835,
+          "conclusion": "success",
+          "url": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/actions/runs/30760105835"
+        },
+        {
+          "name": "embodied-consequence-validation",
+          "run_id": 30760105843,
+          "conclusion": "success",
+          "url": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/actions/runs/30760105843"
+        },
+        {
+          "name": "durable-effect-commit-validation",
+          "run_id": 30760105849,
+          "conclusion": "success",
+          "url": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/actions/runs/30760105849"
+        },
+        {
+          "name": "standing-constitution-validation",
+          "run_id": 30760105851,
+          "conclusion": "success",
+          "url": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/actions/runs/30760105851"
+        },
+        {
+          "name": "release-version-consistency",
+          "run_id": 30760105857,
+          "conclusion": "success",
+          "url": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/actions/runs/30760105857"
+        },
+        {
+          "name": "prohibited-effect-path-validation",
+          "run_id": 30760105873,
+          "conclusion": "success",
+          "url": "https://github.com/Kamanaka5502/elyria-field-admission-runtime/actions/runs/30760105873"
+        }
+      ],
+      "claim": "The protected candidate implements bounded software-in-the-loop standing resolution, proof-bound authority, signed consumption attestation, continuity custody, and exactly-once protected consequence commitment.",
+      "tested_corridor": "Declared Python 3.11 and 3.12 private software workflows and negative regressions at the pinned pull-request head.",
+      "claim_maturity": "ADVERSARIALLY_TESTED",
+      "public_verification_posture": "PROTECTED",
+      "boundary": "No physical truth, qualified sensing, certified functional safety, hard real-time guarantee, isolated production gateway, managed KMS/HSM deployment, guarded-workcell validation, independent reproduction, merged main release, or production admission.",
+      "attribution": {
+        "architect": "Samantha Beatrice Revita-Wagner",
+        "collaborators": []
+      }
+    }
+  ],
+  "withheld_from_canonical_public_proof": [
+    {
+      "repository": "https://github.com/Kamanaka5502/elyria-admission-runtime",
+      "role": "public_buyer_review_candidate",
+      "reason": "The repository states that fresh-clone and CI evidence remain pending; it is not promoted by version number or implementation language alone."
     }
   ],
   "attribution": {
     "elyria_systems": {
-      "founder_and_lead_architect": "Samantha Revita-Wagner"
+      "founder_and_lead_architect": "Samantha Beatrice Revita-Wagner"
     },
     "veritas_aegis": {
       "founder_and_lead_architect": "Terry Snyder"
     },
-    "collaboration_rule": "Terry Snyder is attributed only where a repository, document, commit, or proof surface explicitly declares shared lineage, collaboration, or co-development."
+    "collaboration_rule": "Terry Snyder is attributed only where a repository, document, revision, or proof surface explicitly declares shared lineage, collaboration, or co-development."
   }
 }
