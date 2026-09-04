@@ -1,10 +1,18 @@
 # Samantha Revita-Wagner — Elyria Systems
 
-## Pre-effect execution governance, standing resolution, authority custody, and replayable proof
+## AI Systems Engineer · Pre-effect execution governance · Deterministic runtime controls · Replayable proof
 
 > **Execution is not assumed. It is admitted.**
 
-This repository is the public navigation surface for Elyria Systems. It exists so external readers do not have to infer the architecture from a large repository list or rely on broad social-media language.
+This repository is the canonical public navigation surface for **Samantha Revita-Wagner, Founder and Lead Architect of Elyria Systems**. It is built for technical reviewers, AI safety and evaluation teams, principal engineering searches, enterprise AI governance teams, researchers, and prospective pilot partners who need to move from public identity to inspectable evidence without inferring architecture from a large repository list or broad social-media language.
+
+### External reviewer / recruiter entry point
+
+**Start with the public technical identity:** [PUBLIC_TECHNICAL_IDENTITY.md](PUBLIC_TECHNICAL_IDENTITY.md)
+
+That page provides the concise professional surface: technical focus, engineering thesis, strongest executable proof surfaces, what an external reviewer should attempt to break, research identity, and the boundary between demonstrated evidence and unproven claims.
+
+Searchable technical domains include **AI systems engineering, AI execution governance, AI safety, evaluation engineering, agent governance, deterministic runtime controls, pre-effect enforcement, authority custody, standing resolution, signed receipts, replayable audit evidence, RAG source authority, and high-consequence automation**.
 
 ## Start here
 
@@ -106,10 +114,12 @@ Do not use the generic GitHub account as the only technical reference. Do not ci
 
 The complete protocol is in [PUBLIC_CLAIM_PROTOCOL.md](PUBLIC_CLAIM_PROTOCOL.md). The machine-readable index is in [public-proof-index.json](public-proof-index.json).
 
-## Research identity
+## Public identity and research links
 
-- ORCID: [0009-0004-4439-3261](https://orcid.org/0009-0004-4439-3261)
-- Published series: [Zenodo record 20618521](https://doi.org/10.5281/zenodo.20618521)
+- [GitHub — Kamanaka5502](https://github.com/Kamanaka5502)
+- [LinkedIn — Samantha Greenwell Revita](https://www.linkedin.com/in/samantha-greenwell-revita-27033841b)
+- [ORCID — 0009-0004-4439-3261](https://orcid.org/0009-0004-4439-3261)
+- [Published series — Zenodo record 20618521](https://doi.org/10.5281/zenodo.20618521)
 
 ## Governing test
 
